@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{"dL/K":function(t,n,e){"use strict";e.r(n),e.d(n,"startStatusTap",function(){return c});var o=e("2atR"),s=e("1vRN");const c=()=>{const t=window;t.addEventListener("statusTap",()=>{Object(o.h)(()=>{const n=document.elementFromPoint(t.innerWidth/2,t.innerHeight/2);if(!n)return;const e=n.closest("ion-content");e&&new Promise(t=>Object(s.c)(e,t)).then(()=>{Object(o.f)(()=>e.scrollToTop(300))})})})}}}]);
+//# sourceMappingURL=status-tap-3a499f55-js-es2015.17395de1b401354f7ac5.js.map
